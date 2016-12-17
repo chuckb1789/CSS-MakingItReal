@@ -29,6 +29,7 @@
   margin-left: 50px;
   position: block;
   background-color: #34495e;
+  height: 75px;
 }
 
 .navbar {
@@ -46,16 +47,34 @@
   margin: auto;
 }
 
-.intro .gallery {
+.sidebar {
+  position: relative;
+  
+}
+
+.intro {
   position: relative;
   font-family: Arial, sans-serif;
+  background-color: white;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 p {
   display: inline-block;
+  background-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+H1 {
+  display: inline-block;
+  background-color: white;
 }
 
 .main-pic {
+  background-color: white;
   text-align: center;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 #Aspen {
